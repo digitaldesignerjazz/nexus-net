@@ -1,0 +1,1 @@
+Core NexusOrchestrator with registration and goal propagation
