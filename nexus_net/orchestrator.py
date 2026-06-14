@@ -1,1 +1,1 @@
-Core NexusOrchestrator with registration and goal propagation
+Improved NexusOrchestrator implementation
