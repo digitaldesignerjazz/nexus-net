@@ -1,1 +1,1 @@
-Nexus-Net vision and initial structure
+Updated central Nexus vision
