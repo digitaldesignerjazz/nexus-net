@@ -1,1 +1,1 @@
-Integration demo with other swarm components
+Updated example with capability declarations
